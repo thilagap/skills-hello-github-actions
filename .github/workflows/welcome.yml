@@ -12,5 +12,5 @@ permissions:
   pull-requests: write
 jobs:
   build:
-    name: Post welcome comment
+    name: Post welcome comments
     runs-on: ubuntu-latest
